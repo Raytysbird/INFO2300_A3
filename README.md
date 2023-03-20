@@ -1,3 +1,5 @@
+Project by Matt Lane using an old project to demo deploying projects.
+
 A simple Calculator app.
 When the project is downloaded and ran, the User will see a
 generic calculator that is fully functional and can be used
