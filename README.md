@@ -7,6 +7,7 @@ like any other.  Simple click the buttons to run the desired
 calculations
 
 
+Changed the output font to stand out more.
 
 
 LICENSE
