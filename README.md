@@ -1,5 +1,6 @@
 Project by Matt Lane using an old project to demo deploying projects.
 
+ABOUT:
 A simple Calculator app.
 When the project is downloaded and ran, the User will see a
 generic calculator that is fully functional and can be used
@@ -7,7 +8,9 @@ like any other.  Simple click the buttons to run the desired
 calculations
 
 
+NEW CHANGES FOR THE ASSIGNMENT
 Changed the output font to stand out more.
+
 
 
 LICENSE
